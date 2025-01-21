@@ -1,6 +1,6 @@
 # Bank-Loan-Report
 ## Overview
-The Bank Loan Report Project combines SQL for data manipulation and Tableau for visualization to create a comprehensive report on bank loan data. This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
+A bank loan analysis involves evaluating the terms, risks, and financial viability of a loan from a bank's perspective. It is crucial for both the borrower and the lender to assess various factors before agreeing to the terms of a loan. Below is an overview of the key components involved in bank loan analysis:
 
 ## Dashboards
 ### Dashboard 1: Summary

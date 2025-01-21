@@ -5,11 +5,10 @@ The Bank Loan Report Project combines SQL for data manipulation and Tableau for 
 
 ## Data Source
 The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank's lending activities
-[data source](https://docs.google.com/spreadsheets/d/1-1Ldoe-DwZTL77tdMtRgZAIzeAzs0jh3/edit?usp=sharing&ouid=116890999875311477003&rtpof=true&sd=true).
+[data source](https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7)
 
 
 ## Tools
-- **SQL:** The project leverages SQL queries to retrieve, process, and analyze data database.
 - **Tableau:** Dynamic and interactive visualizations are crafted in Tableau to present key findings effectively.
 
 
@@ -17,7 +16,7 @@ The loan data for this project is sourced from an internal banking database, cap
 ### Dashboard 1: Summary
 
 
-!['Summary image'](/Images/Summary.png)
+!['Summary image'](/Screenshot 2025-01-21 110519)
 
 The Summary Dashboard captures key loan-related metrics and their changes over time, providing a snapshot of the loan portfolio's health and lending strategy impact. It includes the following KPIs:
 - Total Loan Applications (MTD and MoM)
@@ -31,7 +30,7 @@ Additionally, it distinguishes between 'Good Loans' and 'Bad Loans,' with specif
 
 ### Dashboard 2: Overview
 
-!['Overview image'](/Images/Overview.png)
+!['Overview image'](/Screenshot 2025-01-21 110610)
 
 The Overview Dashboard visually represents various loan-related metrics through different chart types:
 - Monthly Trends by Issue Date 
@@ -45,7 +44,7 @@ These visualizations aid in identifying trends, seasonal patterns, and the distr
 
 ### Dashboard 3: Details
 
-!['Details image'](/Images/Details.png)
+!['Details image'](/Screenshot 2025-01-21 110642)
 
 The Details Dashboard offers a detailed view of the loan data, providing a comprehensive and user-friendly interface for accessing vital loan metrics, borrower profiles, and performance data.
 

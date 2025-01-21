@@ -2,12 +2,6 @@
 ## Overview
 The Bank Loan Report Project combines SQL for data manipulation and Tableau for visualization to create a comprehensive report on bank loan data. This report aims to provide stakeholders with actionable insights into loan applications, approvals, and related metrics.
 
-
-## Data Source
-The loan data for this project is sourced from an internal banking database, capturing comprehensive information about the bank's lending activities
-[data source](https://drive.google.com/drive/folders/1wjjTBUg2SHXJQwVNjI5vHLk6DjI2W7y7)
-
-
 ## Tools
 - **Tableau:** Dynamic and interactive visualizations are crafted in Tableau to present key findings effectively.
 
